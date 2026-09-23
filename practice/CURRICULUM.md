@@ -12,10 +12,10 @@
 - [x] 1이 될 때까지 — 풀이: practice/03/06_until_one.py / 해설: /3/6.py — 2026-09-22
 
 ### 4장 구현
-- [ ] 상하좌우 — 풀이: practice/04/01_udlr.py / 해설: /4/1.py
-- [ ] 시각 — 풀이: practice/04/02_clock.py / 해설: /4/2.py
-- [ ] 왕실의 나이트 — 풀이: practice/04/03_knight.py / 해설: /4/3.py
-- [ ] 게임 개발 — 풀이: practice/04/04_game_dev.py / 해설: /4/4.py
+- [x] 상하좌우 — 풀이: practice/04/01_udlr.py / 해설: /4/1.py — 2026-09-23
+- [x] 시각 — 풀이: practice/04/02_clock.py / 해설: /4/2.py — 2026-09-23
+- [x] 왕실의 나이트 — 풀이: practice/04/03_knight.py / 해설: /4/3.py — 2026-09-23
+- [x] 게임 개발 — 풀이: practice/04/04_game_dev.py / 해설: /4/4.py — 2026-09-23
 
 ### 5장 DFS/BFS
 - [ ] 음료수 얼려 먹기 — 풀이: practice/05/10_ice_cream.py / 해설: /5/10.py
